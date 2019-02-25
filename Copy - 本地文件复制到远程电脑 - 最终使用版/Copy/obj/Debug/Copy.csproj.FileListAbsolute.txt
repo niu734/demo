@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\bin\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\bin\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\obj\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\obj\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy\Copy\bin\Debug\Copy.exe.config
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\bin\Debug\Copy.exe.config
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\obj\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\obj\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\bin\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑\Copy\bin\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\bin\Debug\Copy.exe.config
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\obj\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\obj\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\bin\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\bin\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs只算新增\Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs图像\Copy\obj\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs图像\Copy\obj\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs图像\Copy\bin\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs图像\Copy\bin\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - pacs图像\Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.exe
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.pdb
+D:\Documents\Visual Studio 2008\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.exe
+D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.pdb
+D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.exe
+D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.pdb

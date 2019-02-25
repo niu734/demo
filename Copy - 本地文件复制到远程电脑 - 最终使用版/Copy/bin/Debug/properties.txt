@@ -1,0 +1,16 @@
+﻿ConnPath：\\192.168.100.99\e$
+Type：TEST
+DestPath：\\192.168.100.99\e$\dbbackup\
+SourcePath：C:\Users\Administrator\Desktop\20180804
+MaxBakCount：2
+LogFileCount：7
+
+【true】不跳过任何文件夹
+QueryOld：true
+【true】文件夹复制
+Folder：true
+【true】检索所有文件夹
+First：true
+【true】文件存在，比较【false】文件存在，不比较
+Modify：true
+CreateDateFolder：true
