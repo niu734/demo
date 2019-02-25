@@ -1,6 +1,6 @@
-﻿ConnPath：\\192.168.100.99\e$
+﻿ConnPath：\\192.168.1.1\e$
 Type：TEST
-DestPath：\\192.168.100.99\e$\dbbackup\
+DestPath：\\192.168.1.1\e$\dbbackup\
 SourcePath：C:\Users\Administrator\Desktop\20180804
 MaxBakCount：2
 LogFileCount：7

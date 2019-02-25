@@ -77,8 +77,8 @@ namespace Copy
                 }
 
                 //连接远程电脑
-                string user = "syfyhis";
-                string pwd = "123qweASD";
+                string user = "123";
+                string pwd = "123";
                 if (dic.ContainsKey("user"))
                 {
                     user = dic["user"];
@@ -659,15 +659,15 @@ namespace Copy
             }
         }
 
-        private void serialize()
-        {
-            string savepath = baseDestPath + "save\\" ;
-            CreateDirectory(savepath);
-            XmlSerializer serializer = new XmlSerializer(typeof(SaveInfo));
-            FileStream file = new FileStream(baseDestPath + string.Format("sql{0}.xml", DateTime.Now.ToString("yyyyMMddHHmmss")), FileMode.OpenOrCreate);
-            serializer.Serialize(file, sqlList);
-            file.Close();
-        }
+        //private void serialize()
+        //{
+        //    string savepath = baseDestPath + "save\\" ;
+        //    CreateDirectory(savepath);
+        //    XmlSerializer serializer = new XmlSerializer(typeof(SaveInfo));
+        //    FileStream file = new FileStream(baseDestPath + string.Format("sql{0}.xml", DateTime.Now.ToString("yyyyMMddHHmmss")), FileMode.OpenOrCreate);
+        //    serializer.Serialize(file, sqlList);
+        //    file.Close();
+        //}
 
         static bool modify = false;
         static bool first = false;

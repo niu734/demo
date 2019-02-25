@@ -30,3 +30,7 @@ D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程
 D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.pdb
 D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.exe
 D:\000000000000000000000000work\code\Projects\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.pdb
+D:\GitHub\copy\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.exe
+D:\GitHub\copy\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\obj\Debug\Copy.pdb
+D:\GitHub\copy\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.exe
+D:\GitHub\copy\Copy - 本地文件复制到远程电脑 - 最终使用版\Copy\bin\Debug\Copy.pdb
